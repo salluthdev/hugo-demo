@@ -1,0 +1,23 @@
+{{ define "main" }}
+	<h1>{{ .Title }}</h1>
+
+	<h2>Daftar Blog</h2>
+	<ul>
+		{{ range where .Site.RegularPages "Section" "blog" }}
+		<li>
+			<a href="{{.Permalink}}"> {{.Title}}</a>
+			<p>{{ or .Params.description .Summary }}</p>
+		</li>
+		{{ end }}
+	</ul>
+
+	<h2>Daftar Rekomendasi</h2>
+	<ul>
+		{{ range where .Site.RegularPages "Section" "rekomendasi" }}
+		<li>
+			<a href="{{.Permalink}}"> {{.Title}}</a>
+			<p>{{ or .Params.description .Summary }}</p>
+		</li>
+		{{ end }}
+	</ul>
+{{ end }}

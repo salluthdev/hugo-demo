@@ -1,0 +1,7 @@
+<hr />
+<ul>
+	{{ range $tagName, $taxonomy := .Site.Taxonomies.tags }}
+		<a href="/tags/{{ $tagName }}">{{ $tagName }}</a> |
+	{{ end }}
+</ul>
+<p>Made by ❤️ using Hugo 0.101.0</p>
