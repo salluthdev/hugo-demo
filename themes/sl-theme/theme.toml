@@ -2,17 +2,17 @@ name = "Sl Theme"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
 description = ""
-homepage = "https://salluthdev.github.io/hugo-demo/"
+homepage = "baseURL = 'https://salluthdev.github.io/hugo-demo/'"
 tags = []
 features = []
 min_version = "0.41.0"
 
 [author]
   name = ""
-  homepage = ""
+  homepage = "baseURL = 'https://salluthdev.github.io/hugo-demo/'"
 
 # If porting an existing theme
 [original]
   name = ""
-  homepage = ""
+  homepage = "baseURL = 'https://salluthdev.github.io/hugo-demo/'"
   repo = ""
