@@ -1,4 +1,4 @@
-baseURL = 'https://salluthdev.github.io/hugo-demo/'
+baseURL = 'https://salluthdev.github.io/'
 canonifyURLs = 'true'
 relativeURLs = 'true'
 languageCode = 'en-us'
