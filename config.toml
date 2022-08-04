@@ -4,5 +4,6 @@ title = 'Blog | Salluthdev'
 theme = 'sl-theme'
 summaryLength = 20
 paginate = 2
+publishDir = 'docs'
 [params]
 	Description = "Bantu kamu untuk belajar HTML dan CSS"
