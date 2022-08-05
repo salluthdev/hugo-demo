@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>belajar html on Blog | Salluthdev</title>
-    <link>https://salluthdev.github.io/hugo-demo/tags/belajar-html/</link>
+    <link>/tags/belajar-html/</link>
     <description>Recent content in belajar html on Blog | Salluthdev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://salluthdev.github.io/hugo-demo/tags/belajar-html/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/belajar-html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Belajar HTML Yuk</title>
-      <link>https://salluthdev.github.io/hugo-demo/blog/belajar-html/</link>
+      <link>/blog/belajar-html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/blog/belajar-html/</guid>
+      <guid>/blog/belajar-html/</guid>
       <description>Ini adalah file kedua tentang Hugo?</description>
     </item>
     

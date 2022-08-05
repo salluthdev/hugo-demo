@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog | Salluthdev</title>
-    <link>https://salluthdev.github.io/hugo-demo/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Blog | Salluthdev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://salluthdev.github.io/hugo-demo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>belajar html</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/belajar-html/</link>
+      <link>/tags/belajar-html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/belajar-html/</guid>
+      <guid>/tags/belajar-html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>belajar js</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/belajar-js/</link>
+      <link>/tags/belajar-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/belajar-js/</guid>
+      <guid>/tags/belajar-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>belajar-css</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/belajar-css/</link>
+      <link>/tags/belajar-css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/belajar-css/</guid>
+      <guid>/tags/belajar-css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>belajar-hugo</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/belajar-hugo/</link>
+      <link>/tags/belajar-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/belajar-hugo/</guid>
+      <guid>/tags/belajar-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/css/</guid>
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dummy text</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/dummy-text/</link>
+      <link>/tags/dummy-text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/dummy-text/</guid>
+      <guid>/tags/dummy-text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/javascript/</link>
+      <link>/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/javascript/</guid>
+      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lorem ipsum</title>
-      <link>https://salluthdev.github.io/hugo-demo/tags/lorem-ipsum/</link>
+      <link>/tags/lorem-ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salluthdev.github.io/hugo-demo/tags/lorem-ipsum/</guid>
+      <guid>/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
     
