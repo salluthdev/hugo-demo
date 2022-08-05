@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/</loc>
     <lastmod>2022-08-02T16:13:47+07:00</lastmod>
   </url><url>
-    <loc>/rekomendasi/buku/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/rekomendasi/buku/</loc>
     <lastmod>2022-08-02T16:13:47+07:00</lastmod>
   </url><url>
-    <loc>/rekomendasi/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/rekomendasi/</loc>
     <lastmod>2022-08-02T16:13:47+07:00</lastmod>
   </url><url>
-    <loc>/blog/belajar-css/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/blog/belajar-css/</loc>
   </url><url>
-    <loc>/tags/belajar-html/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/belajar-html/</loc>
   </url><url>
-    <loc>/blog/belajar-html/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/blog/belajar-html/</loc>
   </url><url>
-    <loc>/blog/belajar-hugo/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/blog/belajar-hugo/</loc>
   </url><url>
-    <loc>/tags/belajar-js/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/belajar-js/</loc>
   </url><url>
-    <loc>/blog/belajar-js/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/blog/belajar-js/</loc>
   </url><url>
-    <loc>/tags/belajar-css/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/belajar-css/</loc>
   </url><url>
-    <loc>/tags/belajar-hugo/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/belajar-hugo/</loc>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/blog/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/categories/</loc>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/css/</loc>
   </url><url>
-    <loc>/tags/dummy-text/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/dummy-text/</loc>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/html/</loc>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/hugo/</loc>
   </url><url>
-    <loc>/tags/javascript/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/javascript/</loc>
   </url><url>
-    <loc>/kontak/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/kontak/</loc>
   </url><url>
-    <loc>/tags/lorem-ipsum/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/lorem-ipsum/</loc>
   </url><url>
-    <loc>/rekomendasi/lorem-ipsum/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/rekomendasi/lorem-ipsum/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://salluthdev.github.io/hugo-demo/tags/</loc>
   </url>
 </urlset>

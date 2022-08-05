@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://salluthdev.github.io/hugo-demo/'
 relativeURLs = true
 languageCode = 'en-us'
 title = 'Blog | Salluthdev'

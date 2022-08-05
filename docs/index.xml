@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Salluthdev</title>
-    <link>/</link>
+    <link>https://salluthdev.github.io/hugo-demo/</link>
     <description>Recent content on Blog | Salluthdev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Aug 2022 16:13:47 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 16:13:47 +0700</lastBuildDate><atom:link href="https://salluthdev.github.io/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buku</title>
-      <link>/rekomendasi/buku/</link>
+      <link>https://salluthdev.github.io/hugo-demo/rekomendasi/buku/</link>
       <pubDate>Tue, 02 Aug 2022 16:13:47 +0700</pubDate>
       
-      <guid>/rekomendasi/buku/</guid>
+      <guid>https://salluthdev.github.io/hugo-demo/rekomendasi/buku/</guid>
       <description>Ini rekomendasi buku.</description>
     </item>
     
     <item>
       <title>Belajar CSS</title>
-      <link>/blog/belajar-css/</link>
+      <link>https://salluthdev.github.io/hugo-demo/blog/belajar-css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/belajar-css/</guid>
+      <guid>https://salluthdev.github.io/hugo-demo/blog/belajar-css/</guid>
       <description>Ini tempat kita belajar CSS!</description>
     </item>
     
     <item>
       <title>Belajar HTML Yuk</title>
-      <link>/blog/belajar-html/</link>
+      <link>https://salluthdev.github.io/hugo-demo/blog/belajar-html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/belajar-html/</guid>
+      <guid>https://salluthdev.github.io/hugo-demo/blog/belajar-html/</guid>
       <description>Ini adalah file kedua tentang Hugo?</description>
     </item>
     
     <item>
       <title>Belajar Hugo</title>
-      <link>/blog/belajar-hugo/</link>
+      <link>https://salluthdev.github.io/hugo-demo/blog/belajar-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/belajar-hugo/</guid>
+      <guid>https://salluthdev.github.io/hugo-demo/blog/belajar-hugo/</guid>
       <description>Ini adalah file pertama tentang Hugo.</description>
     </item>
     
     <item>
       <title>Belajar Js</title>
-      <link>/blog/belajar-js/</link>
+      <link>https://salluthdev.github.io/hugo-demo/blog/belajar-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/belajar-js/</guid>
+      <guid>https://salluthdev.github.io/hugo-demo/blog/belajar-js/</guid>
       <description>Yuk kita belajar JavaScript.</description>
     </item>
     
     <item>
       <title>Kontak</title>
-      <link>/kontak/</link>
+      <link>https://salluthdev.github.io/hugo-demo/kontak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/kontak/</guid>
+      <guid>https://salluthdev.github.io/hugo-demo/kontak/</guid>
       <description>Kontak saya darimana?</description>
     </item>
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>/rekomendasi/lorem-ipsum/</link>
+      <link>https://salluthdev.github.io/hugo-demo/rekomendasi/lorem-ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rekomendasi/lorem-ipsum/</guid>
+      <guid>https://salluthdev.github.io/hugo-demo/rekomendasi/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
