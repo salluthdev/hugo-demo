@@ -1,6 +1,6 @@
 baseURL = 'https://salluthdev.github.io/hugo-demo/'
 canonifyURLs = true
-relativeURLs = 'true'
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Blog | Salluthdev'
 theme = 'sl-theme'
